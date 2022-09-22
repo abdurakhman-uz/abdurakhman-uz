@@ -12,6 +12,9 @@ Hey! I'm Abduazimov Abdurakhman.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
 </div>
 </p>
+
+```python
+class AbduazimovTricks():
     
   def __init__(self):
     self.name = "Abduazimov Abdurakhman";
