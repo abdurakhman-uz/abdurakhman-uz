@@ -1,52 +1,5 @@
-<h1 align="center">
-  <code>Abduazimov</code>
-</h1>
 
-Hey! I'm Abduazimov Abdurakhman.
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=js3&logoColor=F7DF1E&labelColor=282828">
-  <img src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react3&logoColor=61DAFB&labelColor=282828">
-</div>
-</p>
-
-```python
-class AbduazimovTricks():
-    
-  def __init__(self):
-    self.name = "Abduazimov Abdurakhman";
-    self.username = "Abduazimov74";
-    self.location = "Tashkent, Uzbekistan";
-    self.telegram = "Abduazimov74";
-    self.web = "https://abduazimov-site.ml";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = Abdurakhman()
-```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/3167hattx3gneu2abr66z5ajxybq">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
-## My Statistics
+## Statistics
 
 <br/>
 <p align="left">
